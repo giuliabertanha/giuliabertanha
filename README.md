@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Giulia!
 
-<!--
-**giuliabertanha/giuliabertanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Técnica em informática
+- 🎓 Estudante de Engenharia de Computação
 
-Here are some ideas to get you started:
+## Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,c)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
+## Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)<br><br>
+
+## Contato
+
+![Gmail Badge](https://img.shields.io/badge/-giuliabertanha.tech@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giuliabertanha.tech@gmail.com)
+[![Linkedin: Giulia](https://img.shields.io/badge/-GiuliaBertanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/giulia-bertanha/](https://www.linkedin.com/in/giulia-bertanha-162ab3340/))](https://www.linkedin.com/in/giulia-bertanha-162ab3340/)
+<br><br>
+
+![GiuliaBertanha GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuliaBertanha&show_icons=true&theme=dark) <br><br>
