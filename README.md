@@ -20,4 +20,5 @@
 [![Linkedin: Giulia](https://img.shields.io/badge/-GiuliaBertanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/giulia-bertanha/](https://www.linkedin.com/in/giulia-bertanha-162ab3340/))](https://www.linkedin.com/in/giulia-bertanha-162ab3340/)
 <br><br>
 
-![GiuliaBertanha GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuliaBertanha&show_icons=true&theme=dark) <br><br>
+![giuliabertanha's Stats](https://github-readme-stats.vercel.app/api?username=giuliabertanha&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![giuliabertanha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliabertanha&theme=nord&show_icons=true&hide_border=true&layout=compact)
