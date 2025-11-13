@@ -4,7 +4,9 @@
 - 🎓 Estudante de Engenharia de Computação
 
 ## Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,html,css,c)](https://skillicons.dev)
+
+
 
 ## Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
@@ -12,7 +14,7 @@
 ## Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)<br><br>
+<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ## Contato
 
